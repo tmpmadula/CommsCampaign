@@ -8,4 +8,6 @@ public class Schedule
     public bool? Active { get; set; }
     public bool? Paused { get; set; }
     public DateTime? DateTimeStamp { get; set; }
+
+    public Campaign Campaign { get; set; }
 }
