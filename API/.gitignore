@@ -1,0 +1,43 @@
+# Visual Studio Code
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+
+# NuGet packages
+*.nuget/
+packages/
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.vsix
+*.zip
+*.suo
+*.cache
+*.csproj.user
+*.publishsettings
+node_modules/
+bower_components/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# Other
+.DS_Store
+Thumbs.db
